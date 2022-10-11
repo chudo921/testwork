@@ -7,6 +7,6 @@ public class main {
         int mixMoney = 1;
         System.out.println("Контакты для связи:  +7 900(961)13-47");
         System.out.println("E-mail:  polyakov.gelo@yandex.ru");
-        System.out.println("Адрес компании:  Подрезкого.21");
+        System.out.println("Адрес компании:  Город Москва, Химки, Подрезкого, ул.мира, дом 3.");
     }
 }
